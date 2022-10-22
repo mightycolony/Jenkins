@@ -1,2 +1,1 @@
-echo "Hello me"
-echo "karthik"
+echo "Hello karthik"
