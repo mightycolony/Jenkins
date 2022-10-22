@@ -1,1 +1,2 @@
-echo "Hello me"
+#!/bin/bash
+val="Hello me"
